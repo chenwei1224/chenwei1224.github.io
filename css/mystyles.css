@@ -1,0 +1,54 @@
+p{
+    color: 	#3C3C3C;
+}
+
+.conan1{
+
+    background-color: rgb(83, 43, 226);
+}
+.conan2{
+
+    background-color: rgb(43, 226, 134);
+}
+.conan3{
+
+    background-color: rgb(226, 43, 43);
+}
+a.jjlink{
+    padding: 0px 30px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: cornflowerblue;
+}
+a.jjlink:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+div.jjdivgrey{
+    background-color: rgb(206, 201, 247);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 95%;
+    height: 100px;
+    margin: 10px auto;
+   overflow: hidden;
+}
+jj-color-blue{
+    color: blue;
+}
+.jjcrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+.jjcallmebg{
+    background-image: url("../assets/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    color: black;
+}
