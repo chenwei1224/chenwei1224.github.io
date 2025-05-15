@@ -38,7 +38,7 @@ jj-color-blue{
     color: blue;
 }
 .jjcrop{
-    height: 300px;
+    height: 350px;
     overflow: hidden;
     object-fit: cover;
     margin: 10px 5px;
