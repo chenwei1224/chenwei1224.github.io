@@ -1,6 +1,6 @@
 p{
     color: 	#3C3C3C;
-    font-size: larger;
+    font-size: large;
 }
 
 .conan1{
@@ -33,7 +33,7 @@ div.jjdivgrey{
     width: 95%;
     height: 100px;
     margin: 10px auto;
-   overflow: hidden;
+   overflow: scroll;
 }
 jj-color-blue{
     color: blue;
