@@ -57,5 +57,8 @@ h2{
 .jjserif{
     font-family: "Noto Serif TC", serif;
 }
-
+.jjhl{
+    color: blue;
+    font-weight: 900;
+}
 
