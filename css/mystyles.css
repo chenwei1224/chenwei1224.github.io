@@ -60,4 +60,69 @@ h2{
     color: blue;
     font-weight: 1000;
 }
+/* ====== 學習經歷區塊樣式 ====== */
+
+/* 整體區塊與其他 section 對齊 */
+#school .resume-section-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* 每個學習項目的外框 */
+#school .jjdivgrey {
+    background-color: #f6f6f6;   /* 淺灰底，凸顯內容 */
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    border-left: 4px solid #0d6efd;  /* 與主色調一致的左框線 */
+}
+
+/* 大標題（學校名稱） */
+#school h3 {
+    font-family: "Noto Serif TC", serif;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* 次標題（科系/已畢業） */
+#school .subheading {
+    font-family: "Noto Sans TC", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #666;
+}
+
+/* 小標（例如：目前大三希望…） */
+#school h4 {
+    font-family: "Noto Serif TC", serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* 內容段落 */
+#school p {
+    font-family: "Noto Sans TC", sans-serif;
+    line-height: 1.7;
+    font-size: 1rem;
+    color: #444;
+    margin-bottom: 0;
+}
+
+/* 外部連結 icon (上箭頭 icon) */
+#school a.jjlink i {
+    color: #0d6efd;     /* 主題藍色 */
+    transition: 0.2s;
+}
+
+#school a.jjlink i:hover {
+    color: #084298;     /* 深藍，hover 效果 */
+}
+
+/* 兩段學習經歷的間距 */
+#school .d-flex {
+    margin-bottom: 3rem;
+}
 
